@@ -1,3 +1,3 @@
 # Hindi-to-English-NMT
 
-This is a Hindi to English neural machine translation implemented using pytorch. 
+A deep learning neural network model to translate Hindi sentences into English sentences. The model uses a bidirectional LSTM sequence to sequence architecture using an attention mechanism. 
